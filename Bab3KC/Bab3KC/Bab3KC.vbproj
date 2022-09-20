@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C1BE1BA-7B86-486A-A99E-38AF7DB66462}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Bab3KC.My.MyApplication</StartupObject>
+    <RootNamespace>Bab3KC</RootNamespace>
+    <AssemblyName>Bab3KC</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Bab3KC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Bab3KC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contoh1.Designer.vb">
+      <DependentUpon>Contoh1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh10.Designer.vb">
+      <DependentUpon>Contoh10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh11.Designer.vb">
+      <DependentUpon>Contoh11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh12.Designer.vb">
+      <DependentUpon>Contoh12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh13.Designer.vb">
+      <DependentUpon>Contoh13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh14.Designer.vb">
+      <DependentUpon>Contoh14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh15.Designer.vb">
+      <DependentUpon>Contoh15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh16.Designer.vb">
+      <DependentUpon>Contoh16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh17.Designer.vb">
+      <DependentUpon>Contoh17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh18.Designer.vb">
+      <DependentUpon>Contoh18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh19.Designer.vb">
+      <DependentUpon>Contoh19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh2.Designer.vb">
+      <DependentUpon>Contoh2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh20.Designer.vb">
+      <DependentUpon>Contoh20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh3.Designer.vb">
+      <DependentUpon>Contoh3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh4.Designer.vb">
+      <DependentUpon>Contoh4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh5.Designer.vb">
+      <DependentUpon>Contoh5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh6.Designer.vb">
+      <DependentUpon>Contoh6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh7.Designer.vb">
+      <DependentUpon>Contoh7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh8.Designer.vb">
+      <DependentUpon>Contoh8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contoh9.Designer.vb">
+      <DependentUpon>Contoh9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contoh9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Contoh1.resx">
+      <DependentUpon>Contoh1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh10.resx">
+      <DependentUpon>Contoh10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh11.resx">
+      <DependentUpon>Contoh11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh12.resx">
+      <DependentUpon>Contoh12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh13.resx">
+      <DependentUpon>Contoh13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh14.resx">
+      <DependentUpon>Contoh14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh15.resx">
+      <DependentUpon>Contoh15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh16.resx">
+      <DependentUpon>Contoh16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh17.resx">
+      <DependentUpon>Contoh17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh18.resx">
+      <DependentUpon>Contoh18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh19.resx">
+      <DependentUpon>Contoh19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh2.resx">
+      <DependentUpon>Contoh2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh20.resx">
+      <DependentUpon>Contoh20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh3.resx">
+      <DependentUpon>Contoh3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh4.resx">
+      <DependentUpon>Contoh4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh5.resx">
+      <DependentUpon>Contoh5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh6.resx">
+      <DependentUpon>Contoh6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh7.resx">
+      <DependentUpon>Contoh7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh8.resx">
+      <DependentUpon>Contoh8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contoh9.resx">
+      <DependentUpon>Contoh9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
