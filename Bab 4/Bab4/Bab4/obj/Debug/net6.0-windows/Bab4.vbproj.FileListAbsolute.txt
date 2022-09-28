@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\bin\Debug\net6.0-windows\Bab4.exe
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\bin\Debug\net6.0-windows\Bab4.deps.json
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\bin\Debug\net6.0-windows\Bab4.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\bin\Debug\net6.0-windows\Bab4.dll
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\bin\Debug\net6.0-windows\Bab4.pdb
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.Form1.resources
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.dll
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\refint\Bab4.dll
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.pdb
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\Bab4.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Bab4\Bab4\obj\Debug\net6.0-windows\ref\Bab4.dll

@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\bin\Debug\net6.0-windows\The If Statement.exe
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\bin\Debug\net6.0-windows\The If Statement.deps.json
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\bin\Debug\net6.0-windows\The If Statement.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\bin\Debug\net6.0-windows\The If Statement.dll
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\bin\Debug\net6.0-windows\The If Statement.pdb
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The_If_Statement.Form1.resources
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.dll
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\refint\The If Statement.dll
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.pdb
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\The If Statement.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\The If Statement\The If Statement\obj\Debug\net6.0-windows\ref\The If Statement.dll

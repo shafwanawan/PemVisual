@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\bin\Debug\net6.0-windows\Using Not Equal To.exe
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\bin\Debug\net6.0-windows\Using Not Equal To.deps.json
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\bin\Debug\net6.0-windows\Using Not Equal To.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\bin\Debug\net6.0-windows\Using Not Equal To.dll
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\bin\Debug\net6.0-windows\Using Not Equal To.pdb
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using_Not_Equal_To.Form1.resources
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.dll
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\refint\Using Not Equal To.dll
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.pdb
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\Using Not Equal To.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Using Not Equal To\Using Not Equal To\obj\Debug\net6.0-windows\ref\Using Not Equal To.dll

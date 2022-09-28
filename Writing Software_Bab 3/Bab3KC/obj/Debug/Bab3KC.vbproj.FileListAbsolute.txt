@@ -29,3 +29,34 @@ D:\Project Visual Studio\Bab3KC\Bab3KC\obj\Debug\Bab3KC.Contoh17.resources
 D:\Project Visual Studio\Bab3KC\Bab3KC\obj\Debug\Bab3KC.Contoh18.resources
 D:\Project Visual Studio\Bab3KC\Bab3KC\obj\Debug\Bab3KC.Contoh19.resources
 D:\Project Visual Studio\Bab3KC\Bab3KC\obj\Debug\Bab3KC.Contoh20.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\bin\Debug\Bab3KC.exe.config
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.exe
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.xml
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.pdb
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\bin\Debug\Bab3KC.exe
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\bin\Debug\Bab3KC.pdb
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\bin\Debug\Bab3KC.xml
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.vbprojResolveAssemblyReference.cache
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh1.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh10.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh11.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh12.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh13.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh14.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh15.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh16.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh17.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh18.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh19.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh2.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh20.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh3.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh4.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh5.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh6.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh7.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh8.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Contoh9.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Form1.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.Resources.resources
+D:\My Repository\PemVisual\Writing Software_Bab 3\Bab3KC\obj\Debug\Bab3KC.vbproj.GenerateResource.Cache

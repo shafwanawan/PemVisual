@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\bin\Debug\net6.0-windows\Failing the Test.exe
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\bin\Debug\net6.0-windows\Failing the Test.deps.json
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\bin\Debug\net6.0-windows\Failing the Test.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\bin\Debug\net6.0-windows\Failing the Test.dll
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\bin\Debug\net6.0-windows\Failing the Test.pdb
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing_the_Test.Form1.resources
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.dll
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\refint\Failing the Test.dll
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.pdb
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\Failing the Test.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Failing the Test\Failing the Test\obj\Debug\net6.0-windows\ref\Failing the Test.dll
