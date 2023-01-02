@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\bin\Debug\net6.0-windows\Understanding Constants.exe
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\bin\Debug\net6.0-windows\Understanding Constants.deps.json
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\bin\Debug\net6.0-windows\Understanding Constants.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\bin\Debug\net6.0-windows\Understanding Constants.dll
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\bin\Debug\net6.0-windows\Understanding Constants.pdb
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding_Constants.Form1.resources
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.dll
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\refint\Understanding Constants.dll
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.pdb
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\Understanding Constants.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Understanding Constants\Understanding Constants\obj\Debug\net6.0-windows\ref\Understanding Constants.dll
